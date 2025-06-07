@@ -1,0 +1,5 @@
+Modul ini membahas pembuatan dan kustomisasi Horizontal Bar Chart serta Stacked Horizontal Bar Chart menggunakan Python (Matplotlib) dan Streamlit. Horizontal Bar Chart digunakan untuk membandingkan nilai antar kategori, sangat berguna jika nama kategori panjang atau jumlah kategori banyak. Kustomisasi dapat dilakukan dengan warna, grid, dan label untuk memperjelas visualisasi.
+
+Stacked Horizontal Bar Chart menampilkan data kumulatif dari beberapa sub-kategori dalam satu batang horizontal, sehingga memudahkan analisis komposisi dan perbandingan antar kategori. Modul ini juga membahas pembuatan multiple stacked bar chart untuk membandingkan data dari beberapa tahun sekaligus.
+
+Selain visualisasi statis dengan Matplotlib, modul ini juga memperkenalkan pembuatan visualisasi interaktif menggunakan Streamlit, sehingga hasil analisis dapat disajikan secara dinamis melalui antarmuka web. Dengan penguasaan materi ini, mahasiswa diharapkan mampu membuat, mengkustomisasi, dan menginterpretasikan horizontal bar chart dan stacked horizontal bar chart untuk berbagai kebutuhan analisis data.
